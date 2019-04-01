@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\luke\desktop\2\data structures\stack\stack\main.cpp(42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Stack.vcxproj -> C:\Users\Luke\Desktop\2\Data structures\Stack\x64\Debug\Stack.exe
